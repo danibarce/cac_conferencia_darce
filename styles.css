@@ -1,0 +1,13 @@
+#tarjetas{
+    display: flex;
+    justify-content: center;
+    position:-ms-page;
+}
+
+#carouselExampleSlidesOnly {
+    filter: brightness(50%);
+}
+
+#conf {
+    float: right;
+}
